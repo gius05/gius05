@@ -1,4 +1,9 @@
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Giuseppe+Lopindo." alt="Typing SVG" /></a>
+</div>
+###
+
+<div align="center">
   <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5ff32a9-60ec-4b06-ab65-5ca3b08b9d87/d2gkjfw-b13dee7c-be93-4a4d-bbe1-1a50356382b9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1ZmYzMmE5LTYwZWMtNGIwNi1hYjY1LTVjYTNiMDhiOWQ4N1wvZDJna2pmdy1iMTNkZWU3Yy1iZTkzLTRhNGQtYmJlMS0xYTUwMzU2MzgyYjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i-0z-rbWR0KJkoAKOBK5WLFpFZbmHpvOrT-dM1I59R8"  />
 </div>
 
