@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5ff32a9-60ec-4b06-ab65-5ca3b08b9d87/d2gkjfw-b13dee7c-be93-4a4d-bbe1-1a50356382b9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1ZmYzMmE5LTYwZWMtNGIwNi1hYjY1LTVjYTNiMDhiOWQ4N1wvZDJna2pmdy1iMTNkZWU3Yy1iZTkzLTRhNGQtYmJlMS0xYTUwMzU2MzgyYjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i-0z-rbWR0KJkoAKOBK5WLFpFZbmHpvOrT-dM1I59R8"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gius05.gius05&left_color=blue&left_text=viewers"  />
 </div>
 
@@ -25,9 +19,6 @@
 
 ###
   # 💻 Tech Stack:
-  
-  <img align="right" height="150" src="https://gifdb.com/images/high/code-geass-cute-c-c-hanging-in-the-tree-tqdt03usm6qrx2y3.gif"  />
-
 
 ###
 
