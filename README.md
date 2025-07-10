@@ -1,28 +1,39 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gius05.gius05&left_color=blue&left_text=viewers"  />
-</div>
+<img  align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gius05.gius05&left_color=blue&left_text=viewers"  />
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Giuseppe+Lopindo.">
+</h1>
+
+<h3 align="center">A .NET/JAVA Developer from Italy ɪᴛ</h3>
+
+<br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Giuseppe+Lopindo." alt="Typing SVG" /></a>
+   
+🔭 I'm currently looking for new  **job** opportunities
+ 
+🎯 I’m passionate about programming and everything related to this world.
+
+🎀 I strive to expand my knowledge and improve my programming skills.
+
+🎊 If you have an interesting project or a great idea to discuss, I’d be happy to hear it and collaborate!
+  
 </div>
 
+<div align="center"> 
+  <a href="mailto:giuseppelopindo05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/giuseppe-lopindo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-###
+<hr/>
+  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
- # 💫 About Me:
-
-###
-
-<p align="left">🧙‍♂️ Hi I’m a guy from Italy<br>🎯 I’m passionate about programming and everything related to this world.<br>🎀 I strive to expand my knowledge and improve my programming skills.<br>🎊 I’m still a beginner developer, but if you have an interesting project or a great idea to discuss, I’d be happy to hear it and collaborate!</p>
-
-
-###
-  # 💻 Tech Stack:
-
-###
-
-<div align="left">
+<div align="center">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -47,45 +58,36 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
 </div>
 
-
-
-
-###
-
-<br clear="both">
+<br/>
+<hr/>
 
 <div align="center">
-  <a href="https://dc.gg/code-zero" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <picture>
+  <source media="(prefers-color-schema-dark)" srcset="https://raw.githubusercontent.com/gius05/gius05/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-schema-light)" srcset="https://raw.githubusercontent.com/gius05/gius05/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/gius05/gius05/output/github-snake.svg" alt="Snake animation" />
+  </picture>
+  
+  <br/><br/><br/>
+
 </div>
 
-###
+<hr/>
 
-<picture>
-<source media="(prefers-color-schema-dark)" srcset="https://raw.githubusercontent.com/gius05/gius05/output/github-snake-dark.svg"/>
-<source media="(prefers-color-schema-light)" srcset="https://raw.githubusercontent.com/gius05/gius05/output/github-snake.svg"/>
-<img src="https://raw.githubusercontent.com/gius05/gius05/output/github-snake.svg" alt="Snake animation" />
-</picture>
 
-###
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gius05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gius05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gius05&theme=dark&hide_border=false"/>
+
 </div>
 
 
+<br/><br/>
 
-###
-<div align="center">
-<img  src="https://github-contributor-stats.vercel.app/api?username=gius05&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="contributor stats"/>
-</div>
 
-###
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gius05&theme=dark&hide_border=false"/>
-</div>
-
-###
