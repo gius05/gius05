@@ -10,7 +10,7 @@
 
 <div align="center">
    
-🔭 I'm currently looking for new  **job** opportunities
+🔭 I'm currently looking for new opportunities
  
 🎯 I’m passionate about programming and everything related to this world.
 
