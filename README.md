@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Giuseppe+Lopindo.">
 </h1>
 
-<h3 align="center">A .NET/JAVA/Go Developer from Italy ɪᴛ</h3>
+<h3 align="center">A .NET/JAVA/GO Developer from Italy ɪᴛ</h3>
 
 <br/>
 
