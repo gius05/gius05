@@ -58,9 +58,9 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/react-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/next.js-%230db7ed.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/tailwindcss-%230db7ed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss">
-    <img src="https://img.shields.io/badge/nestjs-%230db7ed.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nestjs">
+    <img src="https://img.shields.io/badge/nestjs-%23ED8B00.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nestjs">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
 </div>
 
